@@ -50,4 +50,4 @@ while True:
 
 cap.release()
 cv2.destroyAllWindows()
-#'ID User:' + str(profile[0])+'\nTên User:'+str(profile[1])+'\nĐịa chỉ:'+str(profile[2])
+#Sửa file
